@@ -37,7 +37,7 @@ require (
 	golang.org/x/crypto v0.0.0-20220321153916-2c7772ba3064
 	golang.org/x/image v0.0.0-20210220032944-ac19c3e999fb
 	golang.org/x/net v0.0.0-20211123203042-d83791d6bcd9
-	golang.org/x/sys v0.0.0-20220329152356-43be30ef3008
+	golang.org/x/sys v0.1.0
 	golang.org/x/term v0.0.0-20210927222741-03fcf44c2211
 	golang.org/x/text v0.3.7
 	golang.org/x/tools v0.1.10 // indirect
@@ -55,7 +55,6 @@ require (
 	github.com/lucasb-eyer/go-colorful v1.2.0
 	github.com/spf13/cast v1.4.1
 	github.com/vearutop/statigz v1.1.6
-	github.com/vektah/gqlparser/v2 v2.4.1
 )
 
 require (
@@ -97,6 +96,7 @@ require (
 	github.com/subosito/gotenv v1.2.0 // indirect
 	github.com/tidwall/match v1.1.1 // indirect
 	github.com/urfave/cli/v2 v2.4.0 // indirect
+	github.com/vektah/gqlparser/v2 v2.4.1 // indirect
 	go.uber.org/atomic v1.7.0 // indirect
 	golang.org/x/mod v0.6.0-dev.0.20220106191415-9b9b3d81d5e3 // indirect
 	golang.org/x/xerrors v0.0.0-20200804184101-5ec99f83aff1 // indirect

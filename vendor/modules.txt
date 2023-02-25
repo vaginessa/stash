@@ -13,7 +13,6 @@ github.com/99designs/gqlgen/graphql/handler
 github.com/99designs/gqlgen/graphql/handler/extension
 github.com/99designs/gqlgen/graphql/handler/lru
 github.com/99designs/gqlgen/graphql/handler/transport
-github.com/99designs/gqlgen/graphql/introspection
 github.com/99designs/gqlgen/graphql/playground
 github.com/99designs/gqlgen/internal/code
 github.com/99designs/gqlgen/internal/imports
@@ -417,7 +416,7 @@ golang.org/x/net/internal/iana
 golang.org/x/net/internal/socket
 golang.org/x/net/ipv4
 golang.org/x/net/publicsuffix
-# golang.org/x/sys v0.0.0-20220329152356-43be30ef3008
+# golang.org/x/sys v0.1.0
 ## explicit; go 1.17
 golang.org/x/sys/cpu
 golang.org/x/sys/execabs
