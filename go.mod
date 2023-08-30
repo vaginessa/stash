@@ -55,7 +55,6 @@ require (
 	github.com/lucasb-eyer/go-colorful v1.2.0
 	github.com/spf13/cast v1.4.1
 	github.com/vearutop/statigz v1.1.6
-	github.com/vektah/gqlparser/v2 v2.4.1
 )
 
 require (
@@ -97,11 +96,12 @@ require (
 	github.com/subosito/gotenv v1.2.0 // indirect
 	github.com/tidwall/match v1.1.1 // indirect
 	github.com/urfave/cli/v2 v2.4.0 // indirect
+	github.com/vektah/gqlparser/v2 v2.4.1 // indirect
 	go.uber.org/atomic v1.7.0 // indirect
 	golang.org/x/mod v0.6.0-dev.0.20220106191415-9b9b3d81d5e3 // indirect
 	golang.org/x/xerrors v0.0.0-20200804184101-5ec99f83aff1 // indirect
 	gopkg.in/ini.v1 v1.66.4 // indirect
-	gopkg.in/yaml.v3 v3.0.0-20210107192922-496545a6307b // indirect
+	gopkg.in/yaml.v3 v3.0.0 // indirect
 )
 
 replace git.apache.org/thrift.git => github.com/apache/thrift v0.0.0-20180902110319-2566ecd5d999
